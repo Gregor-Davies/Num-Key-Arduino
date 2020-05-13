@@ -2,3 +2,5 @@ Source code, circuit digrams/schematics and project files for the Arduino How To
 (This repository is updated every episode)
 
 Subscribe to the channel: https://www.youtube.com/channel/UCb-ESVnizua3Y77tMttRQaQ
+
+Found a issue? Just open a issue in the issue tab and I will fix it.
