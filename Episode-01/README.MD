@@ -1,4 +1,4 @@
-Traffic light project with the arduino uno (Episode-01).
+Traffic light project with the Arduino UNO (Episode-01).
 
 You will need:
 1 x Arduino UNO,
